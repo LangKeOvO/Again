@@ -1,6 +1,7 @@
 #include <iostream>
 #include <map>
 #include <string>
+#include <vector>
 
 using namespace std;
 
@@ -19,6 +20,5 @@ int main()
 
     cin.ignore();
     getline(cin, sss);
-    for()
     return 0;
 }
