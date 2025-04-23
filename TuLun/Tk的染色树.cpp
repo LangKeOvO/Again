@@ -1,3 +1,5 @@
+//https://ac.nowcoder.com/acm/contest/107500/E
+
 #include <iostream>
 #include <vector>
 
