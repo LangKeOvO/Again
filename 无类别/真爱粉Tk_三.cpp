@@ -1,3 +1,4 @@
+//二分
 //牛客http://ac.nowcoder.com/acm/contest/107500/D
 
 #include <iostream>
